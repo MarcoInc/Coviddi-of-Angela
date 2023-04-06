@@ -4,7 +4,6 @@ class Amuchina{
   float speedx,speedy;
   int dim1,dim2;
   int cornx, corny;
-
   
   Amuchina(float posx,float posy){
     this.dim1=48;
